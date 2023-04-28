@@ -1,0 +1,6 @@
+﻿  DifficultChallenges.cpp
+D:\Arie's Files\BootCamp Projects\TTA-C-PlusPlus-UnrealEngine-Projects\DifficultChallenges\DifficultChallenges\MyClass.h(25,32): warning C4584: 'allchildClasses': base-class 'MyClass' is already a base-class of 'MyGrandChild'
+D:\Arie's Files\BootCamp Projects\TTA-C-PlusPlus-UnrealEngine-Projects\DifficultChallenges\DifficultChallenges\MyClass.h(6): message : see declaration of 'MyClass'
+D:\Arie's Files\BootCamp Projects\TTA-C-PlusPlus-UnrealEngine-Projects\DifficultChallenges\DifficultChallenges\MyClass.h(20): message : see declaration of 'MyGrandChild'
+D:\Arie's Files\BootCamp Projects\TTA-C-PlusPlus-UnrealEngine-Projects\DifficultChallenges\DifficultChallenges\DifficultChallenges.cpp(141,16): warning C4101: 'myNum': unreferenced local variable
+  DifficultChallenges.vcxproj -> D:\Arie's Files\BootCamp Projects\TTA-C-PlusPlus-UnrealEngine-Projects\DifficultChallenges\Debug\DifficultChallenges.exe
